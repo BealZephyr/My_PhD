@@ -6,5 +6,6 @@ daily life &amp; work schedule
 - 2023.6.1 finish experiment
 
 ### 2023
-2023.5.9 回顾code generation论文+配置实验+组会
-2023.5.10 项目审计+组会
+5.9 &nbsp; &nbsp;  review paper(code generation) + set up experiment + meeting\
+5.10 &nbsp; project audit + meeting\
+5.11 &nbsp; coding(mutation)
