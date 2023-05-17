@@ -11,4 +11,7 @@ daily life &amp; work schedule
 5.11 &nbsp; coding(mutation)\
 5.12 &nbsp; coding(mutation)\
 5.13 &nbsp; coding(mutation)\
-5.14 &nbsp; attend a lecture
+5.14 &nbsp; attend a lecture\
+5.15 &nbsp; test(mutation)\
+5.16 &nbsp; see a doctor + test(mutation) + meeting\
+5.17 &nbsp; see a doctor + experiment + write report + meeting 
