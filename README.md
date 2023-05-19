@@ -14,6 +14,7 @@ daily life &amp; work schedule
 5.14 &nbsp; attend a lecture\
 5.15 &nbsp; test(mutation)\
 5.16 &nbsp; see a doctor + test(mutation) + meeting\
-5.17 &nbsp; see a doctor + experiment + write report + meeting 
-5.18 &nbsp; write report
-5.19 &nbsp; see a doctor + write report 
+5.17 &nbsp; see a doctor + experiment + write report + meeting \
+5.18 &nbsp; write report\
+5.19 &nbsp; see a doctor + write report \
+5.20 &nbsp; 
