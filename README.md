@@ -33,4 +33,7 @@ daily life &amp; work schedule
 6.4 &nbsp; project application \
 6.5-6.7 &nbsp; project conclusion\
 6.9-6.11 &nbsp; traveling to sanya \
+6.12 &nbsp; having a class-ML \
+6.13 &nbsp; financial affairs + onnx-mlir + nnsmith \
+
 
