@@ -34,6 +34,9 @@ daily life &amp; work schedule
 6.5-6.7 &nbsp; project conclusion\
 6.9-6.11 &nbsp; travel to sanya ✈️(❁´◡`❁)\
 6.12 &nbsp; go to class-ML + take a rest\
-6.13 &nbsp; financial affairs + onnx-mlir + nnsmith \
+6.13 &nbsp; 财务 + 配置实验环境 \
+6.14 &nbsp; 组会 + 配置实验环境 + 模型转换 \
+6.15 &nbsp; 组会 + 配置实验环境\
+6.16 &nbsp; HT学长的科研分享会 + 配置实验环境 + 跑实验2 \
 
 
